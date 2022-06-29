@@ -1,0 +1,11 @@
+
+Item: The Bold and the Beautiful
+===================================
+SALES RECEIPT
+===================================
+Unit Price:              100.00 KES
+Quantity:                    20
+Subtotal:              2,000.00 KES
+Sales Tax:               120.00 KES
+Total:                 2,120.00 KES
+
